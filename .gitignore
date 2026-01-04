@@ -129,3 +129,8 @@ include/site/python3.13/greenlet/greenlet.h
 lib64
 nohup.out
 pyvenv.cfg
+
+# model files
+apis/saved_model/
+model_directory/
+saved_model/
